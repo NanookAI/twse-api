@@ -2,7 +2,7 @@
   "name": "twse-api",
   "displayName": "TWSE API",
   "description": "Query Taiwan Stock Exchange (TWSE) open data: daily quotes, P/E and dividend yield, TAIEX history, company profiles, financial statements, monthly revenue, ESG disclosures and more via openapi.twse.com.tw (no API key required).",
-  "version": "1.1.0",
+  "version": "1.0.0",
   "author": {
     "name": "NanookAI",
     "email": "app030242@gmail.com"
